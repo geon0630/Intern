@@ -18,5 +18,12 @@ CentOS or Ubuntu
 GCP는 전반적으로 아직 부족함.   
 AWS는 다양한 플랫폼을 지원 할 수 있지만 Azure는 제한적이다.   
 윈도우를 사용하지 않기 때문에 AWS가 적합하다고 생각.   
-
+   
+======Github를 사용하여 과정 기록 시작=======   
+   
 AWS를 활용한 CentOS환경 구축   
+AWS인스턴스 추가 및 SSH설정   
+
+CentOS에 Apache, Tomcat, MariaDB 설치해보기   
+
+AWS리셋하고 DBS 분리하여 다시 설치해보기   
