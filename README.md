@@ -28,16 +28,23 @@ yum : Apache 명령어
    
 -yum 업데이트 하기   
 
-![화면 캡처 2020-12-28 145903](https://user-images.githubusercontent.com/20660272/103192823-702feb80-491d-11eb-8028-6d9fe2089aec.png)
+![화면 캡처 2020-12-28 145903](https://user-images.githubusercontent.com/20660272/103192823-702feb80-491d-11eb-8028-6d9fe2089aec.png)   
 ...   
-![화면 캡처 2020-12-28 145959](https://user-images.githubusercontent.com/20660272/103192833-7b831700-491d-11eb-9b1c-a016b80cbe6b.png)
+![화면 캡처 2020-12-28 145959](https://user-images.githubusercontent.com/20660272/103192833-7b831700-491d-11eb-9b1c-a016b80cbe6b.png)   
    
 -httpd설치   
-![화면 캡처 2020-12-28 145111](https://user-images.githubusercontent.com/20660272/103192505-44f8cc80-491c-11eb-93b8-ed11d53a3c06.png)
+![화면 캡처 2020-12-28 145111](https://user-images.githubusercontent.com/20660272/103192505-44f8cc80-491c-11eb-93b8-ed11d53a3c06.png)   
 ...   
-![화면 캡처 2020-12-28 145140](https://user-images.githubusercontent.com/20660272/103192556-71144d80-491c-11eb-925a-21405a9567a6.png)
+![화면 캡처 2020-12-28 145140](https://user-images.githubusercontent.com/20660272/103192556-71144d80-491c-11eb-925a-21405a9567a6.png)   
    
--방화벽풀기  
+-FTP 서버 설치   
+vsftpd 설치   
+![화면 캡처 2020-12-28 150849](https://user-images.githubusercontent.com/20660272/103193090-a6219f80-491e-11eb-9cbf-34a55355a880.png)   
+...   
+![화면 캡처 2020-12-28 150906](https://user-images.githubusercontent.com/20660272/103193103-b2a5f800-491e-11eb-9e15-e92965e19408.png)   
+   
+부팅시 vsftpd 자동시작   
+
 
 
 AWS리셋하고 DBS 분리하여 다시 설치해보기   
