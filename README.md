@@ -1,5 +1,5 @@
 2020.12.22 ~ 2020.02.26   
-아우네트 인턴 기간 기록
+아우라네트워크 인턴 기간 기록
 -
 개발환경 세팅   
 -JDK8: 자바 개발 키트   
@@ -49,5 +49,7 @@ vsftpd 설치
 ![화면 캡처 2020-12-28 152941](https://user-images.githubusercontent.com/20660272/103194029-8c358c00-4921-11eb-9212-bffde1987e44.png)   
 ![화면 캡처 2020-12-28 153117](https://user-images.githubusercontent.com/20660272/103194082-bdae5780-4921-11eb-8faf-265669cfdecb.png)   
 ![화면 캡처 2020-12-28 153234](https://user-images.githubusercontent.com/20660272/103194139-edf5f600-4921-11eb-969c-6fb6d7599d5f.png)   
-
+![화면 캡처 2020-12-28 162913](https://user-images.githubusercontent.com/20660272/103197732-f6eac580-4929-11eb-8af6-5f897a638f86.png)   
+![화면 캡처 2020-12-28 163002](https://user-images.githubusercontent.com/20660272/103197764-066a0e80-492a-11eb-91b5-82fa4ccfc3d8.png)   
+   
 AWS리셋하고 DBS 분리하여 다시 설치해보기   
