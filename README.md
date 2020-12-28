@@ -18,5 +18,5 @@ CentOS or Ubuntu
 GCP는 전반적으로 아직 부족함.   
 AWS는 다양한 플랫폼을 지원 할 수 있지만 Azure는 제한적이다.   
 윈도우를 사용하지 않기 때문에 AWS가 적합하다고 생각.   
- 
+
 AWS를 활용한 CentOS환경 구축   
