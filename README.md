@@ -62,3 +62,9 @@ UI디자인 1차
    
 UI디자인 2차
 ![UI다자인_1 0 0](https://user-images.githubusercontent.com/20660272/103259253-e561f600-49db-11eb-9b93-bc947b0d3912.png)   
+   
+사용 기술   
+HTML : 웹 페이지 구성, 예상 소요 기간 2~3주   
+자바스크립트(kendo) : 조회, 선택조회, 팝업창, 저장, 초기화, 메뉴, 예상 소요 기간 4주 이상   
+DB연결 : ?   
+Softphone연결 : ?   
