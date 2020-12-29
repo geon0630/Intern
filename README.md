@@ -59,3 +59,6 @@ AWS리셋하고 DBS 분리하여 다시 설치해보기
    
 UI디자인 1차
 ![UI다자인_1 0 0](https://user-images.githubusercontent.com/20660272/103250911-a3c05380-49b9-11eb-8493-76e49e27066d.png)   
+   
+UI디자인 2차
+![UI다자인_1 0 0](https://user-images.githubusercontent.com/20660272/103259253-e561f600-49db-11eb-9b93-bc947b0d3912.png)   
