@@ -53,3 +53,9 @@ vsftpd 설치
 ![화면 캡처 2020-12-28 163002](https://user-images.githubusercontent.com/20660272/103197764-066a0e80-492a-11eb-91b5-82fa4ccfc3d8.png)   
    
 AWS리셋하고 DBS 분리하여 다시 설치해보기   
+
+- - -
+2달간 작업 할 웹 페이지 설게
+   
+UI디자인 1차
+![UI다자인_1 0 0](https://user-images.githubusercontent.com/20660272/103250911-a3c05380-49b9-11eb-8493-76e49e27066d.png)   
