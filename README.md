@@ -3,15 +3,16 @@
 ===================================
 개발환경 세팅   
 --------------
+# 개발 툴   
 -JDK8: 자바 개발 키트   
 -Eclipse(STS): IDE는 익숙한 것으로 사용 가능   
 -vert.x: 네트워크 서버 프레임워크   
 -SVN: 여러명의 소스 관리   
 
-CentOS or Ubuntu   
+# CentOS or Ubuntu   
 -CentOS가 21년 12월 31일에 종료되기 때문에 다른 환경으로 옮겨야 하는 기점이다.   
 
-가상머신 – AWS(Amazon)/Azure(MS)/GCP(Google)   
+# 가상머신 – AWS(Amazon)/Azure(MS)/GCP(Google)   
 -AWS: 시장에서 가장 높은 점유율, 다양한 분석 도구 제공, 향상된 연결 편의성   
 -Azure: 윈도우 플랫폼에 강함, 쉬운 UI와 플랫폼 서비스, 일부 브라우저에서 호환성 떨어짐   
 -GCP: Data, AI영역에서 앞섬, 오픈소스 소프트웨어 중심으로 구축   
@@ -19,7 +20,7 @@ GCP는 전반적으로 아직 부족함.
 AWS는 다양한 플랫폼을 지원 할 수 있지만 Azure는 제한적이다.   
 윈도우를 사용하지 않기 때문에 AWS가 적합하다고 생각.   
    
-AWS를 활용한 CentOS환경 구축   
+# AWS를 활용한 CentOS환경 구축   
 AWS인스턴스 추가 및 SSH설정   
    
 ======Github를 사용하여 과정 기록 시작=======  
@@ -59,20 +60,20 @@ AWS리셋하고 DBS 분리하여 다시 설치해보기
 2달간 작업 할 웹 페이지 설계   
 ----------------------------
    
-UI
+# UI
 UI디자인 1차
 ![UI다자인_1 0 0](https://user-images.githubusercontent.com/20660272/103250911-a3c05380-49b9-11eb-8493-76e49e27066d.png)   
    
 UI디자인 2차
 ![UI다자인_1 0 0](https://user-images.githubusercontent.com/20660272/103332566-ca5fb680-4aad-11eb-9863-9cc8075953be.png)     
    
-사용 기술   
+# 사용 기술   
 HTML : 웹 페이지 구성, 예상 소요 기간 2~3주   
 자바스크립트(kendo) : 조회, 선택조회, 팝업창, 저장, 초기화, 메뉴, 예상 소요 기간 4주 이상   
 DB연결 : ?   
 Softphone연결 : ?   
 
-기능   
+# 기능   
 로그인/로그아웃 toggle, 보류/해제 toggle   
 그룹명 combobox 그룹DB에서 가져오기   
 초기화, 조회, 저장   
@@ -86,7 +87,7 @@ Softphone연결 : ?
 전화수신/발신 시 자동으로 상담내역 추가   
 메뉴 유동적으로 열고닫기 가능   
 
-예상 소요 기간   
+# 예상 소요 기간   
 기본 frame : 1주   
 기본 script(Event 호출만) : 1주   
 기본 script 구현 : 3~4주   
