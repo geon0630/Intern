@@ -84,7 +84,7 @@ Softphone연결 : ?
 필수 입력항목 설정(Form)   
 상담내역 클릭 시 메모칸 갱신(ListView-Selection)   
 전화수신/발신 시 자동으로 상담내역 추가   
-메뉴 유동적으로 열고닫기 가능   
+메뉴 유동적으로 열고닫기 가능(Efeect-SlideIn)   
 
 # 예상 소요 기간   
 기본 frame : 1주   
