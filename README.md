@@ -89,4 +89,4 @@ Softphone연결 : ?
 기본 frame : 1주   
 기본 script(Event 호출만) : 1주   
 기본 script 구현 : 3~4주   
-메뉴와 같은 기타 기능 : 2주~   
+메뉴와 같은 기타 기능 : 2주 이상   
