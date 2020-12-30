@@ -72,16 +72,17 @@ DB연결 : ?
 Softphone연결 : ?   
 
 # 기능   
-로그인/로그아웃 toggle, 보류/해제 toggle   
-그룹명 combobox 그룹DB에서 가져오기   
-초기화, 조회, 저장   
-검색 조건에 맞게 리스트 갱신   
-검색된 리스트에서 선택하면 고객 정보 갱신   
-보유한 정보는 자동 입력, 수정 가능   
-그룹명 검색 시 팝업창에 tree형식 리스트, 그룹 추가 가능   
-연락처 입력 시 포맷 맞게만 가능   
-필수 입력항목 설정   
-상담내역 클릭 시 메모칸 갱신   
+로그인/로그아웃 toggle, 보류/해제 toggle(Button, Notification)   
+그룹명 combobox 그룹DB에서 가져오기(Combobox)   
+초기화, 조회, 저장(Button)   
+검색 조건에 맞게 리스트 갱신(Filter)   
+검색된 리스트에서 선택하면 고객 정보 갱신(ListView-Selection)   
+보유한 정보는 자동 입력, 수정 가능(Textbox)   
+그룹명 검색 시 팝업창에 tree형식 리스트, 그룹 추가 가능(Styling, ListView-Editing)   
+이메일 입력 시 포맷 맞게만 가능(Form-Validation)   
+연락처 입력 시 포맷 맞게만 가능(MaskedTextbox)   
+필수 입력항목 설정(Form)   
+상담내역 클릭 시 메모칸 갱신(ListView-Selection)   
 전화수신/발신 시 자동으로 상담내역 추가   
 메뉴 유동적으로 열고닫기 가능   
 
