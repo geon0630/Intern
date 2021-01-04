@@ -116,5 +116,7 @@ Softphone연결 : ?
 # HTML 작업   
 웹 페이지 상 위치 파악   
 헤더, 탐색링크(nav), section, article 추가   
-article에 검색창, 검색 결과창 삽입   
-(2021.01.04)
+article에 검색창(table 사용), 검색 결과창 삽입(kendo)   
+(2021.01.04)   
+> 다음에 할 일   
+> table에 넣은 검색창 toolbar로 바꾸기, 고객정보칸 만들기   
