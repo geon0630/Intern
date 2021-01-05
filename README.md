@@ -113,10 +113,16 @@ Softphone연결 : ?
 1/15(금)까지 HTML로 화면 그리기   
 최종 목표는 DB연결로 함   
 
-# HTML 작업   
+# HTML 작업  
+2020.01.04   
 웹 페이지 상 위치 파악   
 헤더, 탐색링크(nav), section, article 추가   
 article에 검색창(table 사용), 검색 결과창 삽입(kendo)   
 (2021.01.04)HTML 작업 1차 코드    
 > 다음에 할 일   
 > table에 넣은 검색창 toolbar로 바꾸기, 고객정보칸 만들기   
+
+2020.01.05   
+테이블로 만든 검색창 툴바로 변경하려 했지만 콤보박스와 마스크텍스트박스가 일반 텍스트박스로 바뀜   
+메유판을 kendo 참고해서 반들라고 알려주셔서 naviagtion-drawer를 참고함   
+notepad++을 사용하다가 VSCode가 편리하다고 하셔서 변경   
