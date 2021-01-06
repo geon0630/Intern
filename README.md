@@ -68,6 +68,8 @@ UI디자인 2차
 UI디자인 3차(피드백 이후)   
 ![UI다자인_3차](https://user-images.githubusercontent.com/20660272/103494241-39a42480-4e79-11eb-8216-90118bae3dc4.png)   
 
+UI디자인 4차(2021.01.06)   
+![UI다자인_4차](https://user-images.githubusercontent.com/20660272/103731460-8d08a500-5028-11eb-96b2-b693cae423a1.png)   
    
 # 사용 기술   
 HTML : 웹 페이지 구성   
@@ -136,3 +138,4 @@ notepad++을 사용하다가 VSCode가 편리하다고 하셔서 변경
 어려운 고객 정보란은 건너뛰고 상단내역란과 메모 추가   
 검색창 부분 form으로 다시 만듦 maskedtextbox가 제대로 작동하지 않는다)kendo내에서도 안됨)   
 고객정보란을 원래 그린 UI대로 할 수가 없다 수정해야 할 듯   
+고객정보란UI 수정함   
