@@ -148,3 +148,7 @@ notepad++을 사용하다가 VSCode가 편리하다고 하셔서 변경
 탬플릿으로 구분하여 지금까지 만든 것들 적절히 배치   
 검색창이 원래 form으로 만들었는데 크기수정이 어려워 validator로 수정함   
 form에서 버튼을 없애는 방법을 몰라서 validator를 사용했는데 ```buttonsTemplate: "<button>Submit</button>"```으로 버튼 수정할 수 있다   
+> 다음에 할 일   
+> form으로 고객정보란 만들기   
+> 검색창 1줄로 만들기   
+> 이에 따라 템플릿 크기 수정   
