@@ -213,11 +213,9 @@ form으로 수정 하고 문자열 부분과 텍스트박스 부분을 나눠 �
 검색란 좌측끝과 우측 끝으로 정렬하는 방법을 알아냈다   
 > ```<div>```로 분리 하고 class를 만들어   
 > <pre>
-> <code>   
 > .split {
 > 	display: flex;
 >   justify-content: space-between;
 > }
-> </code>
 > </pre>    
 > 를 넣어주고 div에 할당하면 된다   
