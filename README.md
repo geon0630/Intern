@@ -283,3 +283,8 @@ html을 jsp파일로 바꾸는 방법을 검색해보았으나 잘 작동하지 
 -다음에 할 일   
     jsp파일로 변활 할 수 있는 다른 방법을 찾아보기   
 
+2021.01.28   
+html을 단순히 .jsp파일로 변경하면 작동함   
+그동안 작동하지 않은 이유는 파일명 때문이었음   
+js, style, image 폴더도 이전처럼 같은 디랙토리에 넣어두면 잘 작동 한다   
+한글 깨지는 문제가 생겼는데 코드 최상단에 ```<%@ page language="java" contentType="text/html; charset=utf-8" pageEncoding="utf-8" %>```을 추가하면 정상 작동한다   
