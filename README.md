@@ -300,3 +300,9 @@ eclipse에서 export하여 webapp파일을 war파일로 만들어줌
 톰캣 자체 실행(설치 경로에서 bin파일의 startup.bat실행)으로 웹페이지를 작동할 수 있도록 함   
 maven으로 war파일을 tomcat에서 실행 할 수 있도록 함   
 IE도 호완이 되도록 하고 싶지만 ```<meta http-equiv="X-UA-Compatible" content="IE=edge">```로도 호환설정이 안된다   
+일반 호환성 문제가 아닌듯   
+-다음에 할 일   
+    IE호환시킬 방법 찾아보기   
+    script부분 js파일로 모듈화 할 방법 찾아보기   
+    외부에서 데이터 가져올 방법 찾아보기   
+
