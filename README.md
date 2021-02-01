@@ -296,5 +296,6 @@ js, style, image 폴더도 이전처럼 같은 디랙토리에 넣어두면 잘 
 리액트 네이티브에 대해 조사   
 
 2021.02.01   
+eclipse에서 export하여 webapp파일을 war파일로 만들어줌   
 톰캣 자체 실행(설치 경로에서 bin파일의 startup.bat실행)으로 웹페이지를 작동할 수 있도록 함   
 maven으로 war파일을 tomcat에서 실행 할 수 있도록 함   
