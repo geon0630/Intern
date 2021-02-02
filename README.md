@@ -307,3 +307,9 @@ IE도 호완이 되도록 하고 싶지만 ```<meta http-equiv="X-UA-Compatible"
     외부에서 데이터 가져올 방법 찾아보기   
 
 2021.02.02   
+마리아DB 설치-zip파일로 설치함   
+1. 설치파일의 bin폴더의 경로 복사   
+2. 명령 프롬프트에 ```cd 복사한 경로```로 작업 디랙토리 변경   
+3. ```mysql_install_db --datadir=C:mariaDB --service=mariaDB --port=3306 --password=0000```로 작업폴더(C:mariaDB), 윈도우 서비스 내 표시될 서비스명(mariaDB), DB접속 포트(3306), 비밀번호(0000)를 설정하여 설치한다   
+4. 작업관리자의 서비스 탭에서 mariaDB를 시작시켜준다   
+5. 다시 명령 프롬프트로 돌아와서 ```mysql -u root -p```로 mariaDB를 실행시켜준다   
