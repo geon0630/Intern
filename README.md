@@ -306,3 +306,4 @@ IE도 호완이 되도록 하고 싶지만 ```<meta http-equiv="X-UA-Compatible"
     script부분 js파일로 모듈화 할 방법 찾아보기   
     외부에서 데이터 가져올 방법 찾아보기   
 
+2021.02.02   
