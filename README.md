@@ -315,3 +315,8 @@ IE도 호완이 되도록 하고 싶지만 ```<meta http-equiv="X-UA-Compatible"
 5. 다시 명령 프롬프트로 돌아와서 ```mysql -u root -p```로 mariaDB를 실행시켜준다   
 -다음에 할 일   
     mariaDB와 HTML 연동할 방법 찾기   
+
+2021.02.03   
+HTML과 DB연동 방법 검색   
+-다음에 할 일   
+    mariaDB와 HTML 연동할 방법 찾기 
