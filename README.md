@@ -336,4 +336,5 @@ Kendo에 그리드 부분에서 Binding to GraphQL Service처럼 DB연동하면 
 - 다음에 할 일   
     찾아본 방법 적용해서 DB연동 해보기   
     JDBC이용하는 방법도 시도해보기   
+    intelliJ환경에서도 시도해보기
 
