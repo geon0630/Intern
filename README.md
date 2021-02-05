@@ -330,4 +330,9 @@ mariaDB 자바 클라이언트 다운
     DB연동 방법 찾아보기   
 
 2021.02.05   
-DB 커넥터 jar파일 지정 경로로 이동
+DB 커넥터 jar파일 지정 경로로 이동   
+Kendo에 그리드 부분에서 Binding to GraphQL Service처럼 DB연동하면 될 듯   
+다른 JDBC이용하는 방법도 찾음   
+- 다음에 할 일   
+    찾아본 방법 적용해서 DB연동 해보기   
+    JDBC이용하는 방법도 시도해보기   
