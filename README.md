@@ -340,4 +340,9 @@ DB연동할 방법들 검색(JDBC, Kendo Binding to GraphQL Service, intelliJ)
     IE호환   
     DB연결   
     script 모듈화   
-    
+DB연결 시 JDBC로 하는 방법 예제 그대로 작성해보았지만 작동하지 않음   
+에러문구 확인 결과 DB의 드라이버 로드 시 문제가 생기는 듯 함   
+- 다음에 할 일   
+    IE호환 해결하기   
+    예제 DB연결 해결하기   
+
