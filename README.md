@@ -335,3 +335,9 @@ DB연동할 방법들 검색(JDBC, Kendo Binding to GraphQL Service, intelliJ)
 - 다음에 할 일   
     찾아본 방법 적용해서 DB연동 해보기(JDBC, Kendo, intelliJ)   
 
+2021.02.06   
+- 해결해야 할 것   
+    IE호환   
+    DB연결   
+    script 모듈화   
+    
