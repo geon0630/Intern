@@ -353,3 +353,5 @@ DB연결 해결함
 > dbUser도 root로 다시 수정하였지만 작동하지 않았음   
 > 방법을 검색하며 하나하나 시도해보던 도중 Properties에 Deployment Assembly 설정이 문제였음을 발견함   
 > 해당 설정 메뉴에서 add -> Java Build Path Entries에서 JDBC Driver를 추가하였더니 해결됨   
+Kendo 개발자 오피셜로 Kendo UI에 DB를 연결할 방법은 없다고 한다   
+스프레드 시트를 사용하거나 ASP를 사용 해야 한다고 함   
