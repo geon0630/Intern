@@ -358,4 +358,9 @@ Kendo 개발자 오피셜로 Kendo UI에 DB를 연결할 방법은 없다고 한
 일단 Binding to local data로 구현 하자   
 > 주의점
 > 로컬 데이터가 들어있는 js파일의 필드명과 kendogrid선언 시 필드명과 칼럼의 필드명이 모두 같아야 한다   
-> ![FieldPic](https://user-images.githubusercontent.com/20660272/107341402-4532dd00-6b02-11eb-9c46-54c446124f2a.png)
+> ![FieldPic](https://user-images.githubusercontent.com/20660272/107341402-4532dd00-6b02-11eb-9c46-54c446124f2a.png)   
+- 다음에 할 일   
+    IE호환 해결하기   
+    하단 상담 내용도 로컬 데이터로 구현   
+
+    
