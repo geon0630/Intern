@@ -346,3 +346,10 @@ DB연결 시 JDBC로 하는 방법 예제 그대로 작성해보았지만 작동
     IE호환 해결하기   
     예제 DB연결 해결하기   
 
+2021.02.06   
+DB연결 해결함   
+> 맨 처음 path지정 문제인 줄 알았으나 path 지정은 불필요 했음   
+> jdbcDriver 부분의 주소와 포트번호 부분을 ```localhost:3306```으로 수정함   
+> dbUser도 root로 다시 수정하였지만 작동하지 않았음   
+> 방법을 검색하며 하나하나 시도해보던 도중 Properties에 Deployment Assembly 설정이 문제였음을 발견함   
+> 해당 설정 메뉴에서 add -> Java Build Path Entries에서 JDBC Driver를 추가하였더니 해결됨   
