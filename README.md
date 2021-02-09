@@ -360,6 +360,7 @@ Kendo 개발자 오피셜로 Kendo UI에 DB를 연결할 방법은 없다고 한
 > 로컬 데이터가 들어있는 js파일의 필드명과 kendogrid선언 시 필드명과 칼럼의 필드명이 모두 같아야 한다   
 > ![FieldPic](https://user-images.githubusercontent.com/20660272/107341402-4532dd00-6b02-11eb-9c46-54c446124f2a.png)   
 - 다음에 할 일   
+    로컬 파일로 구현한 war파일 실행 확인해보기   
     IE호환 해결하기   
     하단 상담 내용도 로컬 데이터로 구현   
 
