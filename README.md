@@ -356,3 +356,6 @@ DB연결 해결함
 Kendo 개발자 오피셜로 Kendo UI에 DB를 연결할 방법은 없다고 한다   
 스프레드 시트를 사용하거나 ASP를 사용 해야 한다고 함   
 일단 Binding to local data로 구현 하자   
+> 주의점
+> 로컬 데이터가 들어있는 js파일의 필드명과 kendogrid선언 시 필드명과 칼럼의 필드명이 모두 같아야 한다   
+> ![FieldPic](https://user-images.githubusercontent.com/20660272/107341402-4532dd00-6b02-11eb-9c46-54c446124f2a.png)
