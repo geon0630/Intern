@@ -332,6 +332,7 @@ mariaDB 자바 클라이언트 다운
 2021.02.05   
 DB 커넥터 jar파일 지정 경로로 이동   
 DB연동할 방법들 검색(JDBC, Kendo Binding to GraphQL Service, intelliJ)
+참고한 사이트(https://cameldev.tistory.com/40)
 - 다음에 할 일   
     찾아본 방법 적용해서 DB연동 해보기(JDBC, Kendo, intelliJ)   
 
