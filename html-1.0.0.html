@@ -213,19 +213,19 @@
 				/*검색결과란 테이블*/
 				$("#SrcGrid").kendoGrid({
 					dataSource: {
-                    	data: customers,
-                    	schema: {
-                        	model: {
-                        		fields: {
-                                	Name: { type: "string" },
+						data: customers,
+						schema: {
+							model: {
+								fields: {
+									Name: { type: "string" },
 									Group: { type: "string" },
 									Phone: { type: "string" },
 									Email: { type: "string" },
 									Address: { type: "string" },
-                            	}
-                        	}
-                    	}
-                	},
+								}
+							}
+						}
+					},
 					height: 195,
 					selectable: "multiple",
 					change: onChange,
@@ -253,7 +253,7 @@
 						{ Date: "20/11/13", Time: "10:11", Question: "교환/환불", SenRec: "수신", Content: "제품 교환 요청" },
 					],
 					selectable: "multiple",
-					
+
 				});
 
 				/*-----form-----*/
@@ -347,7 +347,8 @@
 				}
 				/*버튼 클릭 기능*/
 				function onClick(e) {
-					kendoConsole.log("event :: click (" + $(e.event.target).closest(".k-button").attr("id") + ")");
+					var d = new Date();
+                notification.show({ time: kendo.toString(d, 'HH:MM:ss.') + kendo.toString(d.getMilliseconds(), "000") }, "time");;
 				}
 
 				/*테이블 클릭 기능*/
@@ -358,6 +359,19 @@
 
 					kendoConsole.log("Selected: " + selected.length + " item(s), [" + selected.join(", ") + "]");
 				}
+
+				function onShow(e) {
+                kendoConsole.log("event :: show (" + $(e.element).find(".timeWrap").text() + ")" );
+            	}
+
+				var notification = $("#notification").kendoNotification({
+					width: "12em",
+					show: onShow,
+					templates: [{
+						type: "time",
+						template: "<div style='padding: .6em 1em'>Time is: <span class='timeWrap'>#: time #</span></div>"
+					}]
+				}).data("kendoNotification");
 			});
 		</script>
 	</section>
