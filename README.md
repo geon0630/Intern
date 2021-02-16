@@ -380,3 +380,5 @@ onclick함수로 안되는 듯 한데 임시로 다른 방법을 사용한 버�
     이벤트 구현   
     
 2021.02.16   
+notification을 이용한 이벤트 넣기 완료   
+```<span id="popupNotification"></span>```를 섹션 안에 추가해야 작동함   
