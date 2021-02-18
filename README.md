@@ -396,3 +396,4 @@ submit, clear, save 버튼들은 단순 텍스트 출력, grid 안의 내용 선
     
 2021.02.18   
 입력된 값 읽기 완료 - Textbox의 API 항목 참고함   
+Vanilla JS 참고하면 라이브러리나 프레임워크의 의존성을 낮출 수 있음   
